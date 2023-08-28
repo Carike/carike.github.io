@@ -32,19 +32,23 @@ Never stop learning! Here are some of my favourite resources:
 
 - Fundamentals
   - Azure Fundamentals (AZ-900)
-  - Dynamics 365 Fundamentals ()
+  - Dynamics 365 Fundamentals CRM + ERP (MB-901)
   - Power Platform Fundamentals (PL-900)
   - Azure AI Fundamentals (AI-900)
   - Security, Compliance and Identity Fundamentals (SC-900)
   - Microsoft 365 Fundamentals (MS-900)
+  - Dynamics 365 Fundamentals (ERP) (MB-920)
 - Associate
   - Power BI Data Analyst Associate (DP-100)
 - Expert
   - AZ-400: Designing and Implementing Microsoft DevOps Solutions
+- Specialty
+  - AZ-220: Azure IoT Developer Specialty
 
-##### DevOps Institute
+#### DevOps Institute
 
 - DevOps Institute - DevOps Foundation
+- DevOps Institute - Site Reliability Engineering Foundation
 
 #### IBM
 
@@ -52,3 +56,4 @@ Never stop learning! Here are some of my favourite resources:
 - Cloud Intro
 - Coding Intro
 - Banking and Financial Markets Industry Intro
+- Cybersecurity Intro
