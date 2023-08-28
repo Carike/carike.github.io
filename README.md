@@ -20,9 +20,11 @@ Never stop learning! Here are some of my favourite resources:
 
 - Look for your next job on [OfferZen](https://www.offerzen.com/z/ZCoFsY)
 - Best stickers from [StickerMule](https://www.stickermule.com/uk/unlock?ref_id=4806181701&utm_medium=link&utm_source=invite)! Get $10 store credit
-- Want 50% off your fist month at [Pluralsight](http://referral.pluralsight.com/mQhiLww)?
+- Want 50% off your first month at [Pluralsight](http://referral.pluralsight.com/mQhiLww)?
 
 ### Certifications
+
+View [my badges and certifications](https://www.credly.com/users/carike) on Credly.
 
 #### AWS
 
