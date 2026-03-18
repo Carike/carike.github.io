@@ -5,7 +5,7 @@ date: 2024-01-01
 
 ## About Me
 
-Hi, I'm **Carike Bosman** — a software engineer, cloud enthusiast, community builder, and lifelong learner based in South Africa. 🇿🇦
+Hi, I'm **Carike Blignaut-Staden** — a DevOps engineer, cloud enthusiast, community builder, and lifelong learner based in South Africa. 🇿🇦
 
 ---
 

@@ -19,11 +19,11 @@ pagination.pagerSize = 5
 
 [languages]
   [languages.en]
-    title = "Carike Bosman"
-    copyright = "© 2024 Carike Bosman"
+    title = "Carike Blignaut-Staden"
+    copyright = "© 2024 Carike Blignaut-Staden"
 
     [languages.en.params]
-      subtitle = "Software Engineer | Speaker | Community Builder"
+      subtitle = "DevOps Engineer | Speaker | Community Builder"
       keywords = "software engineering, azure, devops, .net, community, speaker"
       menuMore = "Show more"
       readMore = "Read more"

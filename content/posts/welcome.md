@@ -9,7 +9,7 @@ description: "Welcome to my personal blog — a space for tech tutorials, featur
 
 Hey there, and welcome to my blog! 👋
 
-I'm **Carike Bosman**, a software engineer based in South Africa with a passion for cloud computing, DevOps, .NET development, and building inclusive tech communities.
+I'm **Carike Blignaut-Staden**, a software engineer based in South Africa with a passion for cloud computing, DevOps, .NET development, and building inclusive tech communities.
 
 This blog is where I'll be sharing:
 
