@@ -385,3 +385,94 @@ th,
 button {
   font-weight: 600;
 }
+
+/* ── Certification cards ─────────────────────────────────────── */
+
+.cert-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.cert-card {
+  border: 1px solid var(--accent);
+  padding: 1rem;
+  border-radius: 4px;
+}
+
+.cert-card h3 {
+  margin-top: 0;
+  color: var(--accent);
+}
+
+/* ── Community / learning platform cards ────────────────────── */
+
+.community-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.community-card {
+  border: 1px solid var(--accent);
+  padding: 1.25rem;
+  border-radius: 4px;
+}
+
+.community-card h3 {
+  margin-top: 0;
+  color: var(--accent);
+}
+
+/* ── Speaker event list ──────────────────────────────────────── */
+
+.event-list {
+  list-style: none;
+  padding: 0;
+}
+
+.event-list li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--foreground) 15%, transparent);
+}
+
+.event-list li:last-child {
+  border-bottom: none;
+}
+
+/* ── Social link cards ───────────────────────────────────────── */
+
+.social-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.social-link-card {
+  border: 1px solid color-mix(in srgb, var(--foreground) 20%, transparent);
+  padding: 1rem;
+  text-align: center;
+  transition: border-color 0.2s;
+}
+
+.social-link-card:hover {
+  border-color: var(--accent);
+}
+
+.social-link-card a {
+  text-decoration: none;
+  font-weight: bold;
+  display: block;
+}
+
+/* ── Highlight box ───────────────────────────────────────────── */
+
+.highlight-box {
+  border-left: 3px solid var(--accent);
+  padding: 0.75rem 1.25rem;
+  margin: 1.5rem 0;
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+}
