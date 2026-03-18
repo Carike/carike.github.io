@@ -20,7 +20,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     title = "Carike Blignaut-Staden"
-    copyright = "© 2024 Carike Blignaut-Staden"
+    copyright = "© 2026 Carike Blignaut-Staden"
 
     [languages.en.params]
       subtitle = "DevOps Engineer | Speaker | Community Builder"
@@ -30,7 +30,7 @@ pagination.pagerSize = 5
       readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "carike@dev:~$"
+      logoText = "Carike Blignaut-Staden - Tech IT smarter"
       logoHomeLink = "/"
 
     [languages.en.menu]

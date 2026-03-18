@@ -1,6 +1,6 @@
 ---
 title: "Welcome to My Blog"
-date: 2024-01-01
+date: 2026-01-01
 tags: ["welcome", "intro"]
 description: "Welcome to my personal blog — a space for tech tutorials, feature articles, and learning notes."
 ---

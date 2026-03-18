@@ -1,5 +1,7 @@
 ![carike_github_io](https://user-images.githubusercontent.com/4377199/131226508-db98ebcf-00d7-4e11-ac51-3c20b268b723.png)
 
+[![Deploy Hugo site to Pages](https://github.com/Carike/carike.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/Carike/carike.github.io/actions/workflows/hugo.yml)
+
 ## Welcome to my GitHub space!
 
 ### Online profiles
